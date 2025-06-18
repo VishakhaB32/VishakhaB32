@@ -1,3 +1,27 @@
+💫 Hi there! I'm Vishakha Bagga 👋
+
+Aspiring Tech Professional | Cloud & Data Enthusiast | Lifelong Learner from India
+
+📧 Email Me at vishakhab814@gmail.com for project collaborations, learning groups, or just to connect! 😊
+
+
+🎓 Recent graduate in Computer Engineering (Class of 2025)
+
+🌱 Currently learning: Power BI | SQL | Python (for data analysis) | Cloud Basics (AWS)
+
+🧠 Working on: Improving analytical skills and building beginner-friendly tech projects
+
+🤝 Open to: Internships, entry-level opportunities, and remote projects
+
+💬 Ask me about: Excel, Power BI, beginner-level SQL, tech career guidance
+
+📫 How to reach me: vishakhab814@gmail.com
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I find joy in transforming raw data into simple, meaningful visuals!
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/vishakhabagga) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishakhab814@gmail.com) 
